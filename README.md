@@ -15,7 +15,7 @@ VOICEROIDシリーズの非公式立ち絵イラストです。
   * シンプルビューに対応しています。付属のpfvファイルとpsdファイルを一緒にPSDToolにドラッグドロップしてください。
 * PSDToolKit
   * pfv, psdファイルを両方選択してドラッグドロップしてください。
-  * アニメーション効果スライダーに対応しています。 `PSDTool/aviutl/script/` 以下の `八塚式VOICEROID` フォルダをAviUtlのScriptフォルダ内に配置し、「アニメーション効果」を追加、対応するVOICEROID名のスライダを選択してください。また、このとき、 `描画@PSD` より上のレイヤーに表情スライダーが来るようにしてください。
+  * アニメーション効果スライダーに対応しています。 `PSDTool/aviutl/script/` 以下の `八塚式VOICEROID` フォルダをAviUtlのScriptフォルダ内に配置し、「アニメーション効果」を追加、対応するVOICEROID名のスライダを選択してください。また、このとき、 `描画@PSD` より**上のレイヤーに表情スライダーが来る**ようにしてください。
   * こんなかんじ  
   ![aviutl](https://github.com/spinalien/voiceroid-portraits/blob/readme-images/screen_053018_095312_PM.jpg)
 * YMM
