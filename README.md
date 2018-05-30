@@ -1,7 +1,7 @@
 # 八塚式VOICEROID立ち絵
 VOICEROIDシリーズの非公式立ち絵イラストです。
 * [PSDTool](https://oov.github.io/psdtool/)
-* [AviUtl](http://spring-fragrance.mints.ne.jp/aviutl/)プラグイン [PSDToolKit](https://oov.github.io/aviutl_psdtoolkit/index.html),
+* [AviUtl](http://spring-fragrance.mints.ne.jp/aviutl/)プラグイン [PSDToolKit](https://oov.github.io/aviutl_psdtoolkit/index.html)
 * [ゆっくりムービーメーカー3](https://manjubox.net/ymm3/)
 
 に、おそらく対応しています。
@@ -13,12 +13,12 @@ VOICEROIDシリーズの非公式立ち絵イラストです。
 ## 💁対応内容
 * PSDTool
   * シンプルビューに対応しています。付属のpfvファイルとpsdファイルを一緒にPSDToolにドラッグドロップしてください。
-* PSDToolKit
+* PSDToolKit (v0.2beta28)
   * pfv, psdファイルを両方選択してドラッグドロップしてください。
   * アニメーション効果スライダーに対応しています。 `PSDTool/aviutl/script/` 以下の `八塚式VOICEROID` フォルダをAviUtlのScriptフォルダ内に配置し、「アニメーション効果」を追加、対応するVOICEROID名のスライダを選択してください。また、このとき、 `描画@PSD` より**上のレイヤーに表情スライダーが来る**ようにしてください。
   * こんなかんじ  
   ![aviutl](https://github.com/spinalien/voiceroid-portraits/blob/readme-images/screen_053018_095312_PM.jpg)
-* YMM
+* ゆっくりムービーメーカー3 (v3.4.8.1)
   * あまり使い慣れていないので、キャラ素材スクリプトの通りの分割を行っています。
   * 目、口は、00系がそれぞれ目パチ口パクに対応しています。
   * もっとこうしたほうが良いなどあれば、ぜひ。
