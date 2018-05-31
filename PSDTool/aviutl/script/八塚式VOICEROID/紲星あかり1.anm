@@ -17,7 +17,7 @@ local values = {
 PSD:addstate(values, obj.track0)
 
 local values = {
-  require("PSDToolKit").Blinker.new({"S.お気に入り/*紲星あかり/目~目閉じ","S.お気に入り/*紲星あかり/目~半目","S.お気に入り/*紲星あかり/目~通常"},4,1,0),
+  require("PSDToolKit").Blinker.new({"S.お気に入り/*紲星あかり/目~目閉じ","S.お気に入り/*紲星あかり/目~半目","S.お気に入り/*紲星あかり/目~通常"},4,1,5),
   "S.お気に入り/*紲星あかり/目~通常",
   "S.お気に入り/*紲星あかり/目~半目",
   "S.お気に入り/*紲星あかり/目~涙目",
