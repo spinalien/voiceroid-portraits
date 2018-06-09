@@ -11,6 +11,8 @@ VOICEROIDシリーズの非公式立ち絵イラストです。
 * 右上あたりの `Clone or download` から `Download ZIP`
 ![how to download](https://github.com/spinalien/voiceroid-portraits/blob/readme-images/screen_053018_095153_PM.jpg)
 
+個別にダウンロードする場合は[リリースページ](https://github.com/spinalien/voiceroid-portraits/releases)から
+
 ## 💁対応内容
 * PSDTool
   * シンプルビューに対応しています。付属のpfvファイルとpsdファイルを一緒にPSDToolにドラッグドロップしてください。
