@@ -1,4 +1,5 @@
 # 八塚式VOICEROID立ち絵
+![キャラクター](https://github.com/spinalien/voiceroid-portraits/blob/readme-images/Character.png)
 VOICEROIDシリーズの非公式立ち絵イラストです。
 * [PSDTool](https://oov.github.io/psdtool/)
 * [AviUtl](http://spring-fragrance.mints.ne.jp/aviutl/)プラグイン [PSDToolKit](https://oov.github.io/aviutl_psdtoolkit/index.html)
