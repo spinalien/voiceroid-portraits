@@ -7,15 +7,15 @@ $packagePath = './pachage/'
 for($i = 0; $i -lt 4; $i++)
 {
     $targetPath = $(Join-Path $packagePath $targets[$i])
-    $destPath =  $(Join-Path $targetPath '/PSDTool/')
-    New-Item $destPath -ItemType Directory
+    New-Item $targetPath -ItemType Directory
 
     # PSDTool
+    $destPath =  $(Join-Path $targetPath '/PSDTool/')
+    $targetName = $targets[$i] + '*'
     robocopy '../PSDTool' $destPath $targetName /S
 
-    $destPath =  $(Join-Path $targetPath '/YMM/')
-
     #YMM
+    $destPath =  $(Join-Path $targetPath '/YMM/')
     robocopy $(Join-Path '../YMM' $targets[$i]) $destPath '*.png' /S
 
     $archiveFile = $(Join-Path $packagePath $targetsEnglish[$i]) + '.zip'
