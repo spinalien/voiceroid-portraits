@@ -1,4 +1,5 @@
 --track0:‘¼,0,17,0,1
+--track1:˜r,0,3,0,1
 local values = {
   "S.‚¨‹C‚É“ü‚è/*ãG¯‚ ‚©‚è/‘¼~‚È‚µ",
   "S.‚¨‹C‚É“ü‚è/*ãG¯‚ ‚©‚è/‘¼~I",
@@ -19,3 +20,10 @@ local values = {
   "S.‚¨‹C‚É“ü‚è/*ãG¯‚ ‚©‚è/‘¼~“{‚è",
 }
 PSD:addstate(values, obj.track0)
+
+local values = {
+  "S.‚¨‹C‚É“ü‚è/*ãG¯‚ ‚©‚è/˜r~˜r‰º‚ë‚µ",
+  "S.‚¨‹C‚É“ü‚è/*ãG¯‚ ‚©‚è/˜r~‚®‚Á",
+  "S.‚¨‹C‚É“ü‚è/*ãG¯‚ ‚©‚è/˜r~‚í[‚¢",
+}
+PSD:addstate(values, obj.track1)
