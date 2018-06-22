@@ -47,7 +47,7 @@ local values = {
   "S.お気に入り/*琴葉葵/目~キュピーン",
   "S.お気に入り/*琴葉葵/目~赤黒目",
 }
-PSD:addstate(values, obj.track0)
+PSD:addstate(values, obj.track1)
 
 local values = {
   require("PSDToolKit").LipSyncSimple.new({"S.お気に入り/*琴葉葵/口~にっこり","S.お気に入り/*琴葉葵/口~通常"},1,true),
