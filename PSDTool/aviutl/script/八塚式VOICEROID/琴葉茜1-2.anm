@@ -1,4 +1,6 @@
 --track0:他,0,19,0,1
+--track1:腕,0,3,0,1
+
 local values = {
   "S.お気に入り/*琴葉茜/他~なし",
   "S.お気に入り/*琴葉茜/他~！",
@@ -21,3 +23,10 @@ local values = {
   "S.お気に入り/*琴葉茜/他~(天下無双)",
 }
 PSD:addstate(values, obj.track0)
+
+local values = {
+  "S.お気に入り/*琴葉茜/腕~腰に手",
+  "S.お気に入り/*琴葉茜/腕~やれやれ",
+  "S.お気に入り/*琴葉茜/腕~がおっ",
+}
+PSD:addstate(values, obj.track1)
