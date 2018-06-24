@@ -1,6 +1,6 @@
 --track0:眉,0,10,0,1
 --track1:目,0,30,0,1
---track2:口,0,25,0,1
+--track2:口,0,29,0,1
 --track3:顔,0,10,0,1
 local values = {
   "S.お気に入り/*紲星あかり/眉~通常",
@@ -53,6 +53,10 @@ PSD:addstate(values, obj.track1)
 local values = {
   require("PSDToolKit").LipSyncSimple.new({"S.お気に入り/*紲星あかり/口~にっこり","S.お気に入り/*紲星あかり/口~笑顔"},1,true),
   require("PSDToolKit").LipSyncSimple.new({"S.お気に入り/*紲星あかり/口~むっ","S.お気に入り/*紲星あかり/口~きょとん"},1,true),
+  require("PSDToolKit").LipSyncSimple.new({"S.お気に入り/*紲星あかり/口~%xA","S.お気に入り/*紲星あかり/口~ぬえぇ"},1,true),
+  require("PSDToolKit").LipSyncSimple.new({"S.お気に入り/*紲星あかり/口~むっ","S.お気に入り/*紲星あかり/口~おっ"},1,true),
+  require("PSDToolKit").LipSyncSimple.new({"S.お気に入り/*紲星あかり/口~むっ","S.お気に入り/*紲星あかり/口~おどろき"},1,true),
+  require("PSDToolKit").LipSyncSimple.new({"S.お気に入り/*紲星あかり/口~にっこり","S.お気に入り/*紲星あかり/口~笑顔２"},1,true),
   "S.お気に入り/*紲星あかり/口~通常",
   "S.お気に入り/*紲星あかり/口~にっこり",
   "S.お気に入り/*紲星あかり/口~笑顔",
