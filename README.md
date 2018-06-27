@@ -38,9 +38,9 @@ VOICEROIDシリーズの非公式立ち絵イラストです。
 
 * 本イラストは非公式の二次創作作品です。
 * 本イラストの利用については各キャラクターの使用ガイドラインを踏襲します。当方が追加で制限をかけることは現在の所考えておりません。
-    * [結月ゆかり](https://www.ah-soft.com/vocaloid/yukari/charactor_guide.html)
-    * [紲星あかり](https://www.ah-soft.com/vocaloid/akari/charactor_guide.html)
-    * [琴葉茜・葵](https://www.ai-j.jp/kotonoha/#license)
+    * [結月ゆかりキャラクター使用ガイドライン](https://www.ah-soft.com/vocaloid/yukari/charactor_guide.html)
+    * [紲星あかりキャラクター使用ガイドライン](https://www.ah-soft.com/vocaloid/akari/charactor_guide.html)
+    * [琴葉茜・葵キャラクター使用ガイドライン](https://www.ai-j.jp/kotonoha/#license)
 * YMM対応版については、上記に加え[キャラ素材スクリプト利用規約](http://www.nicotalk.com/kiyaku.html)にも準じます。
 
 ### やっていいよ🙆なこと
