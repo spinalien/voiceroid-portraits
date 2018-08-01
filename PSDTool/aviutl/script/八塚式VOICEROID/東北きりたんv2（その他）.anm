@@ -1,0 +1,26 @@
+--track0:前髪,0,2,0,1
+--track1:後髪,0,2,0,1
+--track2:髪飾り,0,3,0,1
+--track3:きりたん砲,0,3,0,1
+local values = {
+  "S.お気に入り/*きりたん/髪/前髪~ノーマル",
+  "S.お気に入り/*きりたん/髪/前髪~鬼太郎",
+}
+PSD:addstate(values, obj.track0)
+local values = {
+  "S.お気に入り/*きりたん/髪/後髪~通常",
+  "S.お気に入り/*きりたん/髪/後髪~ロング",
+}
+PSD:addstate(values, obj.track1)
+local values = {
+  "S.お気に入り/*きりたん/髪/髪飾り~あり",
+  "S.お気に入り/*きりたん/髪/髪飾り~ヘッドホン",
+  "S.お気に入り/*きりたん/髪/髪飾り~なし",
+}
+PSD:addstate(values, obj.track2)
+local values = {
+  "S.お気に入り/*きりたん/きりたん砲~通常モード",
+  "S.お気に入り/*きりたん/きりたん砲~全門斉射モード",
+  "S.お気に入り/*きりたん/きりたん砲~なし",
+}
+PSD:addstate(values, obj.track3)
