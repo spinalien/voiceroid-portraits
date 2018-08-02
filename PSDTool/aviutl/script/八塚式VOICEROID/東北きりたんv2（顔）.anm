@@ -1,5 +1,5 @@
 --track0:眉,0,6,0,1
---track1:目,0,50,0,1
+--track1:目,0,52,0,1
 --track2:口,0,34,0,1
 --track3:顔,0,10,0,1
 
@@ -15,6 +15,8 @@ PSD:addstate(values, obj.track0)
 
 local values = {
   require("PSDToolKit").Blinker.new({"S.お気に入り/*きりたん/目~目閉じ","S.お気に入り/*きりたん/目/半目パターン~通常","S.お気に入り/*きりたん/目/ふつう目パターン~通常"},4,1,6),
+  require("PSDToolKit").Blinker.new({"S.お気に入り/*きりたん/目~目閉じ","S.お気に入り/*きりたん/目/半目パターン~視線","S.お気に入り/*きりたん/目/ふつう目パターン~視線"},4,1,6),
+  require("PSDToolKit").Blinker.new({"S.お気に入り/*きりたん/目~目閉じ","S.お気に入り/*きりたん/目/半目パターン~逸らし","S.お気に入り/*きりたん/目/ふつう目パターン~逸らし"},4,1,6),
   "S.お気に入り/*きりたん/目/ふつう目パターン~通常",
   "S.お気に入り/*きりたん/目/ふつう目パターン~視線",
   "S.お気に入り/*きりたん/目/ふつう目パターン~逸らし",
@@ -69,8 +71,8 @@ PSD:addstate(values, obj.track1)
 
 local values = {
   require("PSDToolKit").LipSyncSimple.new({"S.お気に入り/*きりたん/口~閉じ","S.お気に入り/*きりたん/口~微笑み"},1,true),
-  require("PSDToolKit").LipSyncSimple.new({"S.お気に入り/*きりたん/口~閉じ","S.お気に入り/*きりたん/口~わーい"},1,true),
-  require("PSDToolKit").LipSyncSimple.new({"S.お気に入り/*きりたん/口~閉じ","S.お気に入り/*きりたん/口~にやり"},1,true),
+  require("PSDToolKit").LipSyncSimple.new({"S.お気に入り/*きりたん/口~にっこり","S.お気に入り/*きりたん/口~わーい"},1,true),
+  require("PSDToolKit").LipSyncSimple.new({"S.お気に入り/*きりたん/口~にっこり","S.お気に入り/*きりたん/口~にやり"},1,true),
   require("PSDToolKit").LipSyncSimple.new({"S.お気に入り/*きりたん/口~むっ","S.お気に入り/*きりたん/口~おー"},1,true),
   require("PSDToolKit").LipSyncSimple.new({"S.お気に入り/*きりたん/口~むっ","S.お気に入り/*きりたん/口~がおっ"},1,true),
   require("PSDToolKit").LipSyncSimple.new({"S.お気に入り/*きりたん/口~むっ","S.お気に入り/*きりたん/口~ひょー"},1,true),
