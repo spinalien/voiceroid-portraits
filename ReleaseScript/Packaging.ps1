@@ -1,10 +1,10 @@
 $ErrorActionPreference = 'stop'
 
-$targets = 'Œ‹Œ‚ä‚©‚è', 'ãG¯‚ ‚©‚è', '‹Õ—tˆ©', '‹Õ—tˆ¨'
-$targetsEnglish = 'Yukari', 'Akari', 'Akane', 'Aoi'
+$targets = 'Œ‹Œ‚ä‚©‚è', 'ãG¯‚ ‚©‚è', '‹Õ—tˆ©', '‹Õ—tˆ¨', '“Œ–k‚«‚è‚½‚ñv2'
+$targetsEnglish = 'Yukari', 'Akari', 'Akane', 'Aoi', 'Kiritan_v2'
 $packagePath = './pachage/'
 
-for($i = 0; $i -lt 4; $i++)
+for($i = 0; $i -lt 5; $i++)
 {
     $targetPath = $(Join-Path $packagePath $targets[$i])
     New-Item $targetPath -ItemType Directory
@@ -17,6 +17,7 @@ for($i = 0; $i -lt 4; $i++)
     #YMM
     $destPath =  $(Join-Path $targetPath '/YMM/')
     robocopy $(Join-Path '../YMM' $targets[$i]) $destPath '*.png' /S
+    robocopy $(Join-Path '../YMM' $targets[$i]) $destPath '*.pfv' /S
 
     $archiveFile = $(Join-Path $packagePath $targetsEnglish[$i]) + '.zip'
     Compress-Archive -Path $targetPath -DestinationPath $archiveFile
