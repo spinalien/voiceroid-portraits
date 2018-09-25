@@ -28,6 +28,7 @@ VOICEROIDシリーズの非公式立ち絵イラストです。
 * PSDTool
   * シンプルビューに対応しています。付属のpfvファイルとpsdファイルを一緒にPSDToolにドラッグドロップしてください。
 * PSDToolKit (v0.2beta28)
+  * そこまで詳しくはない解説動画 http://www.nicovideo.jp/watch/sm33625401
   * pfv, psdファイルを両方選択してドラッグドロップしてください。
   * アニメーション効果スライダーに対応しています。 `PSDTool/aviutl/script/` 以下の `八塚式VOICEROID` フォルダをAviUtlのScriptフォルダ内に配置し、「アニメーション効果」を追加、対応するVOICEROID名のスライダを選択してください。また、このとき、 `描画@PSD` より**上のレイヤーに表情スライダーが来る**ようにしてください。
   * こんなかんじ  
