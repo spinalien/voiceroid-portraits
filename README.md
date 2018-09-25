@@ -1,18 +1,28 @@
 # 八塚式VOICEROID立ち絵
-![キャラクター](https://github.com/spinalien/voiceroid-portraits/blob/361a5eab6466f06e241362cad5d4107931b10ed2/Character.png)
 VOICEROIDシリーズの非公式立ち絵イラストです。
 * [PSDTool](https://oov.github.io/psdtool/)
 * [AviUtl](http://spring-fragrance.mints.ne.jp/aviutl/)プラグイン [PSDToolKit](https://oov.github.io/aviutl_psdtoolkit/index.html)
 * [ゆっくりムービーメーカー3](https://manjubox.net/ymm3/)
 
-に、おそらく対応しています。
+に、対応しています。
 
-## ダウンロード方法
-* 右上あたりの `Clone or download` から `Download ZIP`
-![how to download](https://github.com/spinalien/voiceroid-portraits/blob/readme-images/screen_053018_095153_PM.jpg)
+## ダウンロード
+各キャラクター名のリンクからダウンロードしてください。V2はV1に比べて差分量（特にポーズと衣装）を大幅増加しています。
+![キャラクターV2](https://github.com/spinalien/voiceroid-portraits/blob/readme-images/Characters2.png)
+* [東北きりたん](https://github.com/spinalien/voiceroid-portraits/releases/download/v3.0.3/Kiritan_v2.zip)
+* 紲星あかり（COMING SOON）
+* 弦巻マキ（COMING SOON）
 
-* 個別にダウンロードする場合は[リリースページ](https://github.com/spinalien/voiceroid-portraits/releases)から
-![individually download](https://github.com/spinalien/voiceroid-portraits/blob/readme-images/screen_060918_101137_PM.jpg)
+
+![キャラクターV1](https://github.com/spinalien/voiceroid-portraits/blob/609f71e453d1c3721aa043002fb2d8023d30e317/Characters1.png)
+* [結月ゆかり](https://github.com/spinalien/voiceroid-portraits/releases/download/v2.7/Yukari.zip)
+* [紲星あかり](https://github.com/spinalien/voiceroid-portraits/releases/download/v2.7/Akari.zip)
+* [琴葉茜](https://github.com/spinalien/voiceroid-portraits/releases/download/v2.7.5/Akane.zip)
+* [琴葉葵](https://github.com/spinalien/voiceroid-portraits/releases/download/v2.7.5/Aoi.zip)
+
+**注意：Lhaplusなど、一部解凍ツールでは解凍ファイルが文字化けする場合があるようです。その場合、Windows標準の解凍機能を利用するか、7zipなど他の解凍ツールをお試しください。**
+
+また、追加リリースなどでの変更点はこちらのページをご参照ください。 https://github.com/spinalien/voiceroid-portraits/releases
 
 ## 💁対応内容
 * PSDTool
@@ -24,7 +34,6 @@ VOICEROIDシリーズの非公式立ち絵イラストです。
   ![aviutl](https://github.com/spinalien/voiceroid-portraits/blob/readme-images/screen_053018_095312_PM.jpg)
 * ゆっくりムービーメーカー3 (v3.4.8.1)
   * あまり使い慣れていないので、キャラ素材スクリプトの通りの分割を行っています。
-    * キャラ素材パレットでテンプレ作ろうとすると何故か高確率でソフトが落ちるんだ。
   * 目、口は、00系がそれぞれ目パチ口パクに対応しています。
   * もっとこうしたほうが良いなどあれば、ぜひ。
 
@@ -58,7 +67,7 @@ VOICEROIDシリーズの非公式立ち絵イラストです。
 
 ## その他どうでもいいこと。
 ### 😋「水着差分とかないんか？」
-そのうち作るかもしれない。
+そのうち作るかもしれない。 => v2 以降対応
 ### 😋「〇〇顔（表情や差分）がないんやけど！」
 自分で作ってくれてもええし、Twitterや、ニコニコ静画コメントとかに書いてくれてもええんやで！
 ### 😋「〇〇っぽい。」
