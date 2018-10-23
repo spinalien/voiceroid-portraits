@@ -9,7 +9,7 @@ VOICEROIDシリーズの非公式立ち絵イラストです。
 ## ダウンロード
 各キャラクター名のリンクからダウンロードしてください。V2はV1に比べて差分量（特にポーズと衣装）を大幅増加しています。
 ![キャラクターV2](https://github.com/spinalien/voiceroid-portraits/blob/readme-images/Characters2.png)
-* [東北きりたん](https://github.com/spinalien/voiceroid-portraits/releases/download/v3.0.3/Kiritan_v2.zip)
+* [東北きりたん](https://github.com/spinalien/voiceroid-portraits/releases/download/v3.0.4/Kiritan_v2.zip)
 * 紲星あかり（COMING SOON）
 * 弦巻マキ（COMING SOON）
 * IA （COMING SOON）
