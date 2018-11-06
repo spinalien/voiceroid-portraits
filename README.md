@@ -12,8 +12,13 @@ VOICEROIDシリーズの非公式立ち絵イラストです。
 * [東北きりたん](https://github.com/spinalien/voiceroid-portraits/releases/download/v3.1.2/Kiritan_v2.zip)
 * [紲星あかり](https://github.com/spinalien/voiceroid-portraits/releases/download/v3.1.2/Akari_v2.zip)
 * 弦巻マキ（COMING SOON）
-* IA （COMING SOON）
-* OИE（COMING SOON）
+* IA -ARIA ON THE PLANETES- （COMING SOON）
+* OИE -ARIA ON THE PLANETES-（COMING SOON）
+* 結月ゆかり（COMING SOON）
+* 琴葉茜（COMING SOON）
+* 琴葉葵（COMING SOON）
+* 京町セイカ（COMING SOON）
+* 東北ずん子（COMING SOON）
 
 
 ![キャラクターV1](https://github.com/spinalien/voiceroid-portraits/blob/609f71e453d1c3721aa043002fb2d8023d30e317/Characters1.png)
