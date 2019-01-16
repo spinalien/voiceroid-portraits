@@ -22,7 +22,7 @@ VOICEROIDシリーズの非公式立ち絵イラストです。
 
 
 ![キャラクターV1](https://github.com/spinalien/voiceroid-portraits/blob/609f71e453d1c3721aa043002fb2d8023d30e317/Characters1.png)
-* [結月ゆかり](https://github.com/spinalien/voiceroid-portraits/releases/download/v2.7/Yukari.zip)
+* [結月ゆかり](https://github.com/spinalien/voiceroid-portraits/releases/download/v3.1.3/Yukari.zip)
 * [紲星あかり](https://github.com/spinalien/voiceroid-portraits/releases/download/v2.7/Akari.zip)
 * [琴葉茜](https://github.com/spinalien/voiceroid-portraits/releases/download/v2.7.5/Akane.zip)
 * [琴葉葵](https://github.com/spinalien/voiceroid-portraits/releases/download/v2.7.5/Aoi.zip)
