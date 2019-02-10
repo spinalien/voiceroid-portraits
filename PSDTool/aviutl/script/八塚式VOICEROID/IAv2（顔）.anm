@@ -1,0 +1,110 @@
+--track0:眉,0,6,0,1
+local values = {
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/眉~普通",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/眉~おこ",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/眉~さがり",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/眉~びっくり",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/眉~怪訝",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/眉~怪訝2",
+}
+PSD:addstate(values, obj.track0)
+
+--track1:通常,0,43,0,1
+local values = {
+  require("PSDToolKit").Blinker.new({"S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目~閉じ目","S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/半目~通常","S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/通常~通常"},4,1,14),
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/通常~通常",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/通常~逸らし",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/通常~目線",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/通常~瞳小",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/通常~瞳小（目線）",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/通常~瞳小（逸らし）",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/通常~ハイライトなし",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/通常~ハイライトなし（目線）",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/通常~ハイライトなし（逸らし）",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/通常~きゅぴーん",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/通常~きゅぴーん（目線）",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/通常~きゅぴーん（逸らし）",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/通常~ハート",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/通常~ハート（目線）",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/通常~ハート（逸らし）",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/通常~赤目",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/通常~赤目（目線）",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/通常~赤目（逸らし）",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/半目~通常",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/半目~目線",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/半目~逸らし",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/半目~瞳小",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/半目~瞳小（目線）",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/半目~瞳小（逸らし）",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/半目~ハイライトなし",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/半目~ハイライトなし（目線）",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/半目~ハイライトなし（逸らし）",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/半目~きゅぴーん",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/半目~きゅぴーん（目線）",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/半目~きゅぴーん（逸らし）",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/半目~ハート",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/半目~ハート（目線）",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/半目~ハート（逸らし）",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/半目~赤目",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/半目~赤目（目線）",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目/半目~赤目（逸らし）",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目~閉じ目",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目~にっこり",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目~デフォルメ閉じ目",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目~＞＜",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目~デフォルメ丸目",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/目~コンセント",
+}
+PSD:addstate(values, obj.track1)
+
+--track2:口,0,31,0,1
+local values = {
+  require("PSDToolKit").LipSyncSimple.new({"S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~にこー","S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~わー"},1,true),
+  require("PSDToolKit").LipSyncSimple.new({"S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~にこー","S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~わー！"},1,true),
+  require("PSDToolKit").LipSyncSimple.new({"S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~むっ","S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~ほわー"},1,true),
+  require("PSDToolKit").LipSyncSimple.new({"S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~むー","S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~うあー"},1,true),
+  require("PSDToolKit").LipSyncSimple.new({"S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~にゃー","S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~にゃー２"},1,true),
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~にこー",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~にこっ",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~わー",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~わー！",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~えへー",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~にー",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~んー",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~ほわー",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~むっ",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~むむ…",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~むー",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~んっ",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~べー",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~ぺろっ",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~ぶー",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~うあー",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~うえぇ",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~にゃー",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~にゃー２",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~へー",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~あー",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~いー",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~うー",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~えー",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~おー",
+  require("PSDToolKit").LipSyncLab.new({a="S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~あー",i="S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~いー",u="S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~うー",e="S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~えー",o="S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~おー",N="S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~んー"},1,true),
+
+}
+PSD:addstate(values, obj.track2)
+
+
+--track3:顔,0,9,0,1
+local values = {
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/顔~なし",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/顔~赤面１",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/顔~赤面２",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/顔~赤面３",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/顔~汗",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/顔~滝汗",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/顔~影",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/顔~青ざめ",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/顔~青ざめ２",
+}
+PSD:addstate(values, obj.track3)

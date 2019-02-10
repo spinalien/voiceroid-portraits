@@ -1,0 +1,13 @@
+--track0:ARIA服（上着あり）,0,9,0,1
+local values = {
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/ARIA服（上着あり）~下げ",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/ARIA服（上着あり）~ぱー",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/ARIA服（上着あり）~ぴーす",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/ARIA服（上着あり）~ぐっ",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/ARIA服（上着あり）~ゆび",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/ARIA服（上着あり）~ぱー%203",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/ARIA服（上着あり）~ぴーす%203",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/ARIA服（上着あり）~ぱー%202",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/ARIA服（上着あり）~ぴーす%202",
+}
+PSD:addstate(values, obj.track0)

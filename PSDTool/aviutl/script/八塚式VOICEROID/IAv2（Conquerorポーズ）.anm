@@ -1,0 +1,13 @@
+--track0:Conqueror,0,9,0,1
+local values = {
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/Conqueror~下げ",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/Conqueror~ぱー",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/Conqueror~ぴーす",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/Conqueror~ぐっ",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/Conqueror~ゆび",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/Conqueror~ぱー%202",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/Conqueror~ぴーす%202",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/Conqueror~ぱー%203",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/Conqueror~ぴーす%203",
+}
+PSD:addstate(values, obj.track0)

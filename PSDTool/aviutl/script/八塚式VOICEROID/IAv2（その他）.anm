@@ -1,0 +1,56 @@
+--track0:漫符,0,25,0,1
+local values = {
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~なし",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~！",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~！！",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~！？",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~？",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~♪",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~キラン",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~キラキラ",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~ほわほわ",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~ハート",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~ハート複数",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~びくっ",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~汗",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~ねむい",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~あせあせ",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~あせあせ（ぼのぼの）",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~（・・・）",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~ため息",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~ぴこん",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~ぷんすこ",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~怒",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~けらけら",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~ぎゃいぎゃい",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~ぐるぐる",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/漫符~ビビっ",
+}
+PSD:addstate(values, obj.track0)
+
+--track1:アホ毛と帽子,0,7,0,1
+local values = {
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/アホ毛と帽子~ふつう",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/アホ毛と帽子~ぴーん",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/アホ毛と帽子~しおしお",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/アホ毛と帽子~びびっ",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/アホ毛と帽子~はーと",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/アホ毛と帽子~なし",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/アホ毛と帽子~Conqueror帽子",
+}
+PSD:addstate(values, obj.track1)
+
+--track2:オプション,0,3,0,1
+local values = {
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/オプション~なし",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/オプション~エボルドライバー",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/オプション~エプロン",
+}
+PSD:addstate(values, obj.track2)
+
+--track3:後髪,0,2,0,1
+local values = {
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/後髪~ARIAロング",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/後髪~ARIAショート",
+}
+PSD:addstate(values, obj.track3)

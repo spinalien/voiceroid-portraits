@@ -1,0 +1,13 @@
+--track0:下着,0,9,0,1
+local values = {
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/下着~下げ",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/下着~ぱー",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/下着~ぴーす",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/下着~ぐっ",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/下着~ゆび",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/下着~ぱー%202",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/下着~ぴーす%202",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/下着~ぱー%203",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/下着~ぴーす%203",
+}
+PSD:addstate(values, obj.track0)
