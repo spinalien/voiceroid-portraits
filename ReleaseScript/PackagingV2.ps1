@@ -1,10 +1,10 @@
 $ErrorActionPreference = 'stop'
 
-$targets = '“Œ–k‚«‚è‚½‚ñv2', 'ãG¯‚ ‚©‚èv2'
-$targetsEnglish = 'Kiritan_v2', 'Akari_v2'
+$targets = '“Œ–k‚«‚è‚½‚ñv2', 'ãG¯‚ ‚©‚èv2', 'IAv2'
+$targetsEnglish = 'Kiritan_v2', 'Akari_v2', 'IA_v2'
 $packagePath = './pachage/'
 
-for($i = 0; $i -lt 2; $i++)
+for($i = 0; $i -lt 3; $i++)
 {
     $targetPath = $(Join-Path $packagePath $targets[$i])
     New-Item $targetPath -ItemType Directory
