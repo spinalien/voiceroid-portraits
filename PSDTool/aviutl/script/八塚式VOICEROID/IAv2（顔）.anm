@@ -89,8 +89,7 @@ local values = {
   "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~うー",
   "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~えー",
   "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~おー",
-  require("PSDToolKit").LipSyncLab.new({a="S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~あー",i="S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~いー",u="S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~うー",e="S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~えー",o="S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~おー",N="S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~んー"},1,true),
-
+  require("PSDToolKit").LipSyncLab.new({a="S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~あー",i="S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~いー",u="S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~うー",e="S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~えー",o="S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~おー",N="S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/口~にこー"},1,true),
 }
 PSD:addstate(values, obj.track2)
 
