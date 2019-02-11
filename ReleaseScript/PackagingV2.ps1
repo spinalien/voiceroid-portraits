@@ -1,8 +1,14 @@
+Add-Type -AssemblyName System.IO.Compression.FileSystem
+
 $ErrorActionPreference = 'stop'
 
 $targets = 'ìåñkÇ´ÇËÇΩÇÒv2', '„GêØÇ†Ç©ÇËv2', 'IAv2'
 $targetsEnglish = 'Kiritan_v2', 'Akari_v2', 'IA_v2'
 $packagePath = './pachage/'
+
+If (test-path $packagePath) {
+    Remove-Item -Recurse -Force $packagePath
+}
 
 for($i = 0; $i -lt 3; $i++)
 {
@@ -20,7 +26,7 @@ for($i = 0; $i -lt 3; $i++)
     robocopy $(Join-Path '../YMM' $targets[$i]) $destPath '*.pfv' /S
 
     $archiveFile = $(Join-Path $packagePath $targetsEnglish[$i]) + '.zip'
-    Compress-Archive -Path $targetPath -DestinationPath $archiveFile
+    [IO.Compression.ZipFile]::CreateFromDirectory($targetPath, $archiveFile, [IO.Compression.CompressionLevel]::Optimal, $true, [Text.Encoding]::Default)
 
     Remove-Item $targetPath -Recurse
 }
