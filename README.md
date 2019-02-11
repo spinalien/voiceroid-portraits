@@ -19,6 +19,8 @@ VOICEROIDシリーズの非公式立ち絵イラストです。
 * 琴葉葵（COMING SOON）
 * 京町セイカ（COMING SOON）
 * 東北ずん子（COMING SOON）
+* 東北イタコ（COMING SOON）
+* 音街ウナ（COMING SOON）
 
 
 ![キャラクターV1](https://github.com/spinalien/voiceroid-portraits/blob/609f71e453d1c3721aa043002fb2d8023d30e317/Characters1.png)
