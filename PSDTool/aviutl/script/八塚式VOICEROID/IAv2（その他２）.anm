@@ -1,0 +1,13 @@
+--track0:ヘアカラー,0,2,0,1
+local values = {
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ヘアカラー~メッシュなし",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ヘアカラー~メッシュ",
+}
+PSD:addstate(values, obj.track0)
+
+--track1:背後オプション,0,2,0,1
+local values = {
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/背後オプション~なし",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/背後オプション~ねこさん",
+}
+PSD:addstate(values, obj.track1)
