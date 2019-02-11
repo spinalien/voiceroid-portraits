@@ -1,0 +1,13 @@
+--track0:2019Winter,0,9,0,1
+local values = {
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/2019Winter~伸ばし",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/2019Winter~ぱー",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/2019Winter~ぴーす",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/2019Winter~ぐっ",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/2019Winter~ゆび",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/2019Winter~ぱー%202",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/2019Winter~ぴーす%202",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/2019Winter~ぱー%203",
+  "S.お気に入り/*IA%20-ARIA%20ON%20THE%20PLANETES-/ポーズ/2019Winter~ぴーす%203",
+}
+PSD:addstate(values, obj.track0)

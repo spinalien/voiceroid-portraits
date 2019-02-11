@@ -9,13 +9,22 @@ VOICEROIDシリーズの非公式立ち絵イラストです。
 ## ダウンロード
 各キャラクター名のリンクからダウンロードしてください。V2はV1に比べて差分量（特にポーズと衣装）を大幅増加しています。
 ![キャラクターV2](https://github.com/spinalien/voiceroid-portraits/blob/readme-images/Characters2.png)
-* [東北きりたん](https://github.com/spinalien/voiceroid-portraits/releases/download/v3.0.3/Kiritan_v2.zip)
-* 紲星あかり（COMING SOON）
+* [東北きりたん](https://github.com/spinalien/voiceroid-portraits/releases/download/v3.1.2/Kiritan_v2.zip)
+* [紲星あかり](https://github.com/spinalien/voiceroid-portraits/releases/download/v3.2.1/Akari_v2.zip)
 * 弦巻マキ（COMING SOON）
+* [IA -ARIA ON THE PLANETES-](https://github.com/spinalien/voiceroid-portraits/releases/download/v3.3/IA_v2.zip)
+* OИE -ARIA ON THE PLANETES-（COMING SOON）
+* 結月ゆかり（COMING SOON）
+* 琴葉茜（COMING SOON）
+* 琴葉葵（COMING SOON）
+* 京町セイカ（COMING SOON）
+* 東北ずん子（COMING SOON）
+* 東北イタコ（COMING SOON）
+* 音街ウナ（COMING SOON）
 
 
 ![キャラクターV1](https://github.com/spinalien/voiceroid-portraits/blob/609f71e453d1c3721aa043002fb2d8023d30e317/Characters1.png)
-* [結月ゆかり](https://github.com/spinalien/voiceroid-portraits/releases/download/v2.7/Yukari.zip)
+* [結月ゆかり](https://github.com/spinalien/voiceroid-portraits/releases/download/v3.1.3/Yukari.zip)
 * [紲星あかり](https://github.com/spinalien/voiceroid-portraits/releases/download/v2.7/Akari.zip)
 * [琴葉茜](https://github.com/spinalien/voiceroid-portraits/releases/download/v2.7.5/Akane.zip)
 * [琴葉葵](https://github.com/spinalien/voiceroid-portraits/releases/download/v2.7.5/Aoi.zip)
@@ -28,6 +37,7 @@ VOICEROIDシリーズの非公式立ち絵イラストです。
 * PSDTool
   * シンプルビューに対応しています。付属のpfvファイルとpsdファイルを一緒にPSDToolにドラッグドロップしてください。
 * PSDToolKit (v0.2beta28)
+  * そこまで詳しくはない解説動画 http://www.nicovideo.jp/watch/sm33625401
   * pfv, psdファイルを両方選択してドラッグドロップしてください。
   * アニメーション効果スライダーに対応しています。 `PSDTool/aviutl/script/` 以下の `八塚式VOICEROID` フォルダをAviUtlのScriptフォルダ内に配置し、「アニメーション効果」を追加、対応するVOICEROID名のスライダを選択してください。また、このとき、 `描画@PSD` より**上のレイヤーに表情スライダーが来る**ようにしてください。
   * こんなかんじ  
@@ -45,8 +55,8 @@ VOICEROIDシリーズの非公式立ち絵イラストです。
 
 ### 🤔細かく説明頼む。
 
-* 本イラストは非公式の二次創作作品です。
-* 本イラストの利用については各キャラクターの使用ガイドラインを踏襲します。当方が追加で制限をかけることは現在の所考えておりません。
+* 本イラストはVOICEROIDシリーズキャラクターの非公式の二次創作作品です。
+* 本イラストの利用については各キャラクターの使用ガイドラインを踏襲します。
     * [結月ゆかりキャラクター使用ガイドライン](https://www.ah-soft.com/vocaloid/yukari/charactor_guide.html)
     * [紲星あかりキャラクター使用ガイドライン](https://www.ah-soft.com/vocaloid/akari/charactor_guide.html)
     * [琴葉茜・葵キャラクター使用ガイドライン](https://www.ai-j.jp/kotonoha/#license)
@@ -56,12 +66,13 @@ VOICEROIDシリーズの非公式立ち絵イラストです。
 * YouTube、ニコニコ動画等動画投稿サイトへの作品への利用（実況系、劇場系、その他）
 * TwitterなどのSNSアイコンやヘッダー画像として利用。
 * 商用作品ではないゲーム作品等への利用。
-* 個人的な目的での印刷（名刺、ステッカーなど）。
-* 加筆パーツの作成（衣装差分や表情差分の追加・改造）、その加筆パーツ自体の配布。
+* 個人的な目的での印刷（名刺、私的利用範囲内でのステッカーなど）。
+* 加筆パーツの作成（衣装差分や表情差分の追加・改造）、その加筆パーツの配布。
 
 ### やっちゃダメ🙅なこと
 * 本イラストをそのまま再配布する行為。
 * イラスト作成者、及び権利保有者の権利を著しく毀損する行為。
+* 許可なく本イラストを利用したグッズ等を制作・販売・配布する行為。
 * 他者を誹謗中傷する目的で利用すること。
 * キャラクターイメージを著しく毀損する行為。
 
