@@ -2,7 +2,7 @@
 VOICEROIDシリーズ、CeVIOシリーズのキャラクターの非公式立ち絵イラストです。
 * [PSDTool](https://oov.github.io/psdtool/)
 * [AviUtl](http://spring-fragrance.mints.ne.jp/aviutl/)プラグイン [PSDToolKit](https://oov.github.io/aviutl_psdtoolkit/index.html)
-* [ゆっくりムービーメーカー3](https://manjubox.net/ymm3/)
+* [ゆっくりムービーメーカー3](https://manjubox.net/ymm3/) （v1のみ対応）
 
 に、対応しています。
 
