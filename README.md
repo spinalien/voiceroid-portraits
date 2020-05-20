@@ -1,5 +1,5 @@
-# 八塚式VOICEROID立ち絵
-VOICEROIDシリーズの非公式立ち絵イラストです。
+# 八塚式VOICEROID/CeVIO立ち絵
+VOICEROIDシリーズ、CeVIOシリーズのキャラクターの非公式立ち絵イラストです。
 * [PSDTool](https://oov.github.io/psdtool/)
 * [AviUtl](http://spring-fragrance.mints.ne.jp/aviutl/)プラグイン [PSDToolKit](https://oov.github.io/aviutl_psdtoolkit/index.html)
 * [ゆっくりムービーメーカー3](https://manjubox.net/ymm3/)
