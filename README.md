@@ -7,20 +7,17 @@ VOICEROIDシリーズの非公式立ち絵イラストです。
 に、対応しています。
 
 ## ダウンロード
-各キャラクター名のリンクからダウンロードしてください。V2はV1に比べて差分量（特にポーズと衣装）を大幅増加しています。
+各キャラクター名のリンクからダウンロードしてください。
+![キャラクターVnext](https://raw.githubusercontent.com/spinalien/voiceroid-portraits/readme-images/Characters3.png)
+Vnextはシンプルな差分となった代わりに動きのあるポージングになりました。
+* [IA -ARIA ON THE PLANETES-](https://github.com/spinalien/voiceroid-portraits/releases/download/v4.0/ia_next.zip)
+* [OИE -ARIA ON THE PLANETES-](https://github.com/spinalien/voiceroid-portraits/releases/download/v4.0/one_next.zip)
+
 ![キャラクターV2](https://github.com/spinalien/voiceroid-portraits/blob/9ac21cc6e81ad5d103b4b9b96b6ba5e8863835cf/Characters2.png)
+V2はV1に比べて差分量（特にポーズと衣装）を大幅増加しています。
 * [東北きりたん](https://github.com/spinalien/voiceroid-portraits/releases/download/v3.1.2/Kiritan_v2.zip)
 * [紲星あかり](https://github.com/spinalien/voiceroid-portraits/releases/download/v3.4.1/Akari_v2.zip)
-* 弦巻マキ（COMING SOON）
 * [IA -ARIA ON THE PLANETES-](https://github.com/spinalien/voiceroid-portraits/releases/download/v3.3.1/IA_v2.zip)
-* OИE -ARIA ON THE PLANETES-（COMING SOON）
-* 結月ゆかり（COMING SOON）
-* 琴葉茜（COMING SOON）
-* 琴葉葵（COMING SOON）
-* 京町セイカ（COMING SOON）
-* 東北ずん子（COMING SOON）
-* 東北イタコ（COMING SOON）
-* 音街ウナ（COMING SOON）
 
 
 ![キャラクターV1](https://github.com/spinalien/voiceroid-portraits/blob/609f71e453d1c3721aa043002fb2d8023d30e317/Characters1.png)
