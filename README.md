@@ -32,10 +32,10 @@ V2はV1に比べて差分量（特にポーズと衣装）を大幅増加して�
 
 また、追加リリースなどでの変更点はこちらのページをご参照ください。 https://github.com/spinalien/voiceroid-portraits/releases
 
-## 💁対応内容
-* PSDTool
+## 💁使い方とか (How to use it.)
+* PSDTool https://oov.github.io/psdtool/
   * シンプルビューに対応しています。付属のpfvファイルとpsdファイルを一緒にPSDToolにドラッグドロップしてください。
-* PSDToolKit (v0.2beta28)
+* PSDToolKit (v0.2beta28以降) https://oov.github.io/aviutl_psdtoolkit/index.html
   * そこまで詳しくはない解説動画 http://www.nicovideo.jp/watch/sm33625401
   * pfv, psdファイルを両方選択してドラッグドロップしてください。
   * アニメーション効果スライダーに対応しています。 `PSDTool/aviutl/script/` 以下の `八塚式VOICEROID` フォルダをAviUtlのScriptフォルダ内に配置し、「アニメーション効果」を追加、対応するVOICEROID名のスライダを選択してください。また、このとき、 `描画@PSD` より**上のレイヤーに表情スライダーが来る**ようにしてください。
@@ -46,7 +46,7 @@ V2はV1に比べて差分量（特にポーズと衣装）を大幅増加して�
   * 目、口は、00系がそれぞれ目パチ口パクに対応しています。
   * もっとこうしたほうが良いなどあれば、ぜひ。
 
-## ⚠注意事項など
+## ⚠注意事項など (cautions when using.)
 ### 😎三行で説明頼む。
 * これは二次創作作品だよ。動画やゲームの立ち絵に使ってね。
 * キャラクターのイメージや、人を傷つける行為に使うのはだめだよ。
