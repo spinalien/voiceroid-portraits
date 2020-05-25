@@ -14,6 +14,7 @@ VOICEROIDシリーズ、CeVIOシリーズのキャラクターの非公式立ち
 Vnextはシンプルな差分となった代わりに動きのあるポージングになりました。
 * [IA -ARIA ON THE PLANETES-](https://github.com/spinalien/voiceroid-portraits/releases/download/v4.0/ia_next.zip)
 * [OИE -ARIA ON THE PLANETES-](https://github.com/spinalien/voiceroid-portraits/releases/download/v4.0/one_next.zip)
+* [ガイノイドTalk flower](https://github.com/spinalien/voiceroid-portraits/releases/download/v4.1/vflower_next.zip)
 
 ![キャラクターV2](https://github.com/spinalien/voiceroid-portraits/blob/9ac21cc6e81ad5d103b4b9b96b6ba5e8863835cf/Characters2.png)
 V2はV1に比べて差分量（特にポーズと衣装）を大幅増加しています。
