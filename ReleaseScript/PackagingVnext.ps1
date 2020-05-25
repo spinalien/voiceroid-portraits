@@ -2,8 +2,8 @@ Add-Type -AssemblyName System.IO.Compression.FileSystem
 
 $ErrorActionPreference = 'stop'
 
-$targets = 'ia_next', 'one_next'
-$targetsEnglish = 'ia_next', 'one_next'
+$targets = 'ia_next', 'one_next', 'vflower_next'
+$targetsEnglish = 'ia_next', 'one_next', 'vflower_next'
 $packagePath = './pachage/'
 
 If (test-path $packagePath) {
