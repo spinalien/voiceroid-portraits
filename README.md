@@ -1,26 +1,26 @@
-# 八塚式VOICEROID立ち絵
-VOICEROIDシリーズの非公式立ち絵イラストです。
+# 八塚式VOICEROID/CeVIO立ち絵
+VOICEROIDシリーズ、CeVIOシリーズのキャラクターの非公式立ち絵イラストです。
 * [PSDTool](https://oov.github.io/psdtool/)
 * [AviUtl](http://spring-fragrance.mints.ne.jp/aviutl/)プラグイン [PSDToolKit](https://oov.github.io/aviutl_psdtoolkit/index.html)
-* [ゆっくりムービーメーカー3](https://manjubox.net/ymm3/)
+* [ゆっくりムービーメーカー3](https://manjubox.net/ymm3/) （v1のみ対応）
 
 に、対応しています。
 
+利用にあたっての注意点などはページ下部にまとめてあります。ご確認ください。
+
 ## ダウンロード
-各キャラクター名のリンクからダウンロードしてください。V2はV1に比べて差分量（特にポーズと衣装）を大幅増加しています。
+各キャラクター名のリンクからダウンロードしてください。
+![キャラクターVnext](https://raw.githubusercontent.com/spinalien/voiceroid-portraits/readme-images/Characters3.png)
+Vnextはシンプルな差分となった代わりに動きのあるポージングになりました。
+* [IA -ARIA ON THE PLANETES-](https://github.com/spinalien/voiceroid-portraits/releases/download/v4.0/ia_next.zip)
+* [OИE -ARIA ON THE PLANETES-](https://github.com/spinalien/voiceroid-portraits/releases/download/v4.0/one_next.zip)
+* [ガイノイドTalk flower](https://github.com/spinalien/voiceroid-portraits/releases/download/v4.1/vflower_next.zip)
+
 ![キャラクターV2](https://github.com/spinalien/voiceroid-portraits/blob/9ac21cc6e81ad5d103b4b9b96b6ba5e8863835cf/Characters2.png)
+V2はV1に比べて差分量（特にポーズと衣装）を大幅増加しています。
 * [東北きりたん](https://github.com/spinalien/voiceroid-portraits/releases/download/v3.1.2/Kiritan_v2.zip)
 * [紲星あかり](https://github.com/spinalien/voiceroid-portraits/releases/download/v3.4.1/Akari_v2.zip)
-* 弦巻マキ（COMING SOON）
 * [IA -ARIA ON THE PLANETES-](https://github.com/spinalien/voiceroid-portraits/releases/download/v3.3.1/IA_v2.zip)
-* OИE -ARIA ON THE PLANETES-（COMING SOON）
-* 結月ゆかり（COMING SOON）
-* 琴葉茜（COMING SOON）
-* 琴葉葵（COMING SOON）
-* 京町セイカ（COMING SOON）
-* 東北ずん子（COMING SOON）
-* 東北イタコ（COMING SOON）
-* 音街ウナ（COMING SOON）
 
 
 ![キャラクターV1](https://github.com/spinalien/voiceroid-portraits/blob/609f71e453d1c3721aa043002fb2d8023d30e317/Characters1.png)
@@ -33,10 +33,10 @@ VOICEROIDシリーズの非公式立ち絵イラストです。
 
 また、追加リリースなどでの変更点はこちらのページをご参照ください。 https://github.com/spinalien/voiceroid-portraits/releases
 
-## 💁対応内容
-* PSDTool
+## 💁使い方とか (How to use it.)
+* PSDTool https://oov.github.io/psdtool/
   * シンプルビューに対応しています。付属のpfvファイルとpsdファイルを一緒にPSDToolにドラッグドロップしてください。
-* PSDToolKit (v0.2beta28)
+* PSDToolKit (v0.2beta28以降) https://oov.github.io/aviutl_psdtoolkit/index.html
   * そこまで詳しくはない解説動画 http://www.nicovideo.jp/watch/sm33625401
   * pfv, psdファイルを両方選択してドラッグドロップしてください。
   * アニメーション効果スライダーに対応しています。 `PSDTool/aviutl/script/` 以下の `八塚式VOICEROID` フォルダをAviUtlのScriptフォルダ内に配置し、「アニメーション効果」を追加、対応するVOICEROID名のスライダを選択してください。また、このとき、 `描画@PSD` より**上のレイヤーに表情スライダーが来る**ようにしてください。
@@ -47,7 +47,7 @@ VOICEROIDシリーズの非公式立ち絵イラストです。
   * 目、口は、00系がそれぞれ目パチ口パクに対応しています。
   * もっとこうしたほうが良いなどあれば、ぜひ。
 
-## ⚠注意事項など
+## ⚠注意事項など (cautions when using.)
 ### 😎三行で説明頼む。
 * これは二次創作作品だよ。動画やゲームの立ち絵に使ってね。
 * キャラクターのイメージや、人を傷つける行為に使うのはだめだよ。
@@ -76,16 +76,30 @@ VOICEROIDシリーズの非公式立ち絵イラストです。
 * 他者を誹謗中傷する目的で利用すること。
 * キャラクターイメージを著しく毀損する行為。
 
-## その他どうでもいいこと。
-### 😋「水着差分とかないんか？」
-そのうち作るかもしれない。 => v2 以降対応
-### 😋「〇〇顔（表情や差分）がないんやけど！」
-自分で作ってくれてもええし、Twitterや、ニコニコ静画コメントとかに書いてくれてもええんやで！
-### 😋「〇〇っぽい。」
-作者は影響されやすいからね、仕方ないね。
-### 😋「〇〇にはつかっていい？」
-非営利目的ならだいたい大丈夫だと思うけど怖かったら聞いてみてな！
-### 😋「〇〇（キャラ名）も描いてくれよな～頼むよ～」
-とりあえず琴葉姉妹は描く予定やで！ => 描いた
-### 😋「エセ関西やめろ。」
-ごめんて。
+## FAQ
+### 😋「水着差分とか衣装差分はある？」
+v2シリーズにはあります。最新シリーズで用意するかは未定（コストが大きいため）
+### 😋「ポーズ差分はある？」
+v1シリーズとv2シリーズにはあります。最新シリーズで用意するかは未定（コストが大きいため）
+### 😋「YMMには対応しないの？」
+対応コストが高いため、v2以降はPSDTool, PSDToolKitのみになりました。PSDToolを使えばある程度出力可能なのでお試しください。
+### 😋「こういう差分がほしい」
+確約はできません。ニコニコ静画やTwitterでつぶやくと拾うかも知れない。
+### 😋「このキャラがほしい」
+確約はできません。ニコニコ静画やTwitterでつぶやくと拾うかも知れない。
+### 😋「アイコンに使っていい？」
+いいよ。
+### 😋「名刺に使っていい？」
+いいよ。
+### 😋「ステッカーとかにしていい？」
+売ったりしなければOK。
+### 😋「加筆して動画で使っていい？」
+いいよ。
+### 😋「Live2Dにしていい？」
+いいよ。
+### 😋「Twitterでクソコラするのに使っていい？」
+（公式に怒られない使い方で）いいよ。
+### 😋「Youtube（その他ニコニコ動画以外の動画プラットフォーム）にもアップする動画に使っていい？」
+いいよ。
+### 😎「Are you ready?」
+できてるよ。
