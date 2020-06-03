@@ -2,15 +2,15 @@ Add-Type -AssemblyName System.IO.Compression.FileSystem
 
 $ErrorActionPreference = 'stop'
 
-$targets = 'ia_next', 'one_next', 'vflower_next', '弦巻マキ_next'
-$targetsEnglish = 'ia_next', 'one_next', 'vflower_next', 'maki_next'
+$targets = 'ia_next', 'one_next', 'vflower_next', '弦巻マキ_next', '結月ゆかり_next'
+$targetsEnglish = 'ia_next', 'one_next', 'vflower_next', 'maki_next', 'yukari_next'
 $packagePath = './pachage/'
 
 If (test-path $packagePath) {
     Remove-Item -Recurse -Force $packagePath
 }
 
-for($i = 0; $i -lt 4; $i++)
+for($i = 0; $i -lt 8; $i++)
 {
     $targetPath = $(Join-Path $packagePath $targets[$i])
     New-Item $targetPath -ItemType Directory
