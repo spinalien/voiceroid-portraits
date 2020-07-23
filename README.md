@@ -15,6 +15,8 @@ Vnextはシンプルな差分となった代わりに動きのあるポージン
 * [IA -ARIA ON THE PLANETES-](https://github.com/spinalien/voiceroid-portraits/releases/download/v4.0/ia_next.zip)
 * [OИE -ARIA ON THE PLANETES-](https://github.com/spinalien/voiceroid-portraits/releases/download/v4.0/one_next.zip)
 * [ガイノイドTalk flower](https://github.com/spinalien/voiceroid-portraits/releases/download/v4.1/vflower_next.zip)
+* [ボイスロイド 弦巻マキ](https://github.com/spinalien/voiceroid-portraits/releases/download/v4.2/maki_next.zip)
+* [ボイスロイド 結月ゆかり](https://github.com/spinalien/voiceroid-portraits/releases/download/v4.3/yukari_next.zip)
 
 ![キャラクターV2](https://github.com/spinalien/voiceroid-portraits/blob/9ac21cc6e81ad5d103b4b9b96b6ba5e8863835cf/Characters2.png)
 V2はV1に比べて差分量（特にポーズと衣装）を大幅増加しています。
@@ -48,18 +50,15 @@ V2はV1に比べて差分量（特にポーズと衣装）を大幅増加して�
   * もっとこうしたほうが良いなどあれば、ぜひ。
 
 ## ⚠注意事項など (cautions when using.)
-### 😎三行で説明頼む。
-* これは二次創作作品だよ。動画やゲームの立ち絵に使ってね。
-* キャラクターのイメージや、人を傷つける行為に使うのはだめだよ。
-* 加工、改変はしてもいいけどそのまんま再配布はしないでね。
-
-### 🤔細かく説明頼む。
-
 * 本イラストはVOICEROIDシリーズキャラクターの非公式の二次創作作品です。
 * 本イラストの利用については各キャラクターの使用ガイドラインを踏襲します。
     * [結月ゆかりキャラクター使用ガイドライン](https://www.ah-soft.com/vocaloid/yukari/charactor_guide.html)
     * [紲星あかりキャラクター使用ガイドライン](https://www.ah-soft.com/vocaloid/akari/charactor_guide.html)
     * [琴葉茜・葵キャラクター使用ガイドライン](https://www.ai-j.jp/kotonoha/#license)
+    * [東北ずん子 キャラクター利用のガイドライン](https://zunko.jp/guideline.html)
+    * [AH-Software キャラクター利用ガイドライン](https://www.ah-soft.com/licensee/)
+    * [ガイノイド キャラクター利用に関するガイドライン](https://gynoid.co.jp/news/view/63/)
+    * [1st  PLACE キャラクター二次使用ルール](http://1stplace.co.jp/contact/voice_character_rule.pdf)
 * YMM対応版については、上記に加え[キャラ素材スクリプト利用規約](http://www.nicotalk.com/kiyaku.html)にも準じます。
 
 ### やっていいよ🙆なこと
@@ -73,33 +72,40 @@ V2はV1に比べて差分量（特にポーズと衣装）を大幅増加して�
 * 本イラストをそのまま再配布する行為。
 * イラスト作成者、及び権利保有者の権利を著しく毀損する行為。
 * 許可なく本イラストを利用したグッズ等を制作・販売・配布する行為。
-* 他者を誹謗中傷する目的で利用すること。
+* 他者を誹謗中傷する目的で利用する行為。
 * キャラクターイメージを著しく毀損する行為。
+* 政治活動、宗教活動での利用。
 
-## FAQ
-### 😋「水着差分とか衣装差分はある？」
+## よく分かるFAQ
+### 🤔「水着差分とか衣装差分はある？」
 v2シリーズにはあります。最新シリーズで用意するかは未定（コストが大きいため）
-### 😋「ポーズ差分はある？」
+### 🤔「ポーズ差分はある？」
 v1シリーズとv2シリーズにはあります。最新シリーズで用意するかは未定（コストが大きいため）
-### 😋「YMMには対応しないの？」
+### 🤔「YMMには対応しないの？」
 対応コストが高いため、v2以降はPSDTool, PSDToolKitのみになりました。PSDToolを使えばある程度出力可能なのでお試しください。
-### 😋「こういう差分がほしい」
+### 🤔「こういう差分がほしい」
 確約はできません。ニコニコ静画やTwitterでつぶやくと拾うかも知れない。
-### 😋「このキャラがほしい」
+### 🤔「このキャラがほしい」
 確約はできません。ニコニコ静画やTwitterでつぶやくと拾うかも知れない。
-### 😋「アイコンに使っていい？」
+### 🤔「アイコンに使っていい？」
+いいよ。（プロフィール欄にクレジット記入してくれると喜びます。）
+### 🤔「名刺に使っていい？」
 いいよ。
-### 😋「名刺に使っていい？」
+### 🤔「加筆して動画で使っていい？」
 いいよ。
-### 😋「ステッカーとかにしていい？」
-売ったりしなければOK。
-### 😋「加筆して動画で使っていい？」
+### 🤔「Live2Dにしていい？」
 いいよ。
-### 😋「Live2Dにしていい？」
+### 🤔「Youtube（その他ニコニコ動画以外の動画プラットフォーム）にもアップする動画に使っていい？」
 いいよ。
-### 😋「Twitterでクソコラするのに使っていい？」
+### 🤔「Twitterでクソコラするのに使っていい？」
 （公式に怒られない使い方で）いいよ。
-### 😋「Youtube（その他ニコニコ動画以外の動画プラットフォーム）にもアップする動画に使っていい？」
-いいよ。
+### 🤔「ステッカーとかにしていい？」
+販売目的でない限り可能です。
+### 🤔「ゲームやアプリに使っていい？」
+無料アプリに限り無相談で可能です。有料配布の場合は各公式ガイドラインを確認の上、当方へもご相談ください。
+### 🤔「本に使っていい？」
+立ち絵で漫画を作ったり、作中素材として使う場合は可能です。奥付にクレジットもお願いします。
+### 🤔「VOICEROIDエディタの画像差し替えに使っていい？」
+VOICEROIDエディタ、または各音声ライブラリのエンドユーザライセンスの禁止事項に「EDITORまたはLIBRARY等を、逆コンパイル、逆アセンブル、リバースエンジニアリング、その他読解可能な形式に変換する手段を用いて解析すること。」があります。ライセンス違反になるのでお止めください。
 ### 😎「Are you ready?」
 できてるよ。
