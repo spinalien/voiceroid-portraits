@@ -1,4 +1,10 @@
 # 八塚式VOICEROID/CeVIO立ち絵
+![ダウンロード数](https://img.shields.io/github/downloads/spinalien/voiceroid-portraits/total?label=total%20downloads)
+![最新リリース](https://img.shields.io/github/v/release/spinalien/voiceroid-portraits?label=latest%20release)
+![最終リリース日](https://img.shields.io/github/release-date/spinalien/voiceroid-portraits)
+![リポジトリのサイズ](https://img.shields.io/github/repo-size/spinalien/voiceroid-portraits?label=all%20filesize)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fspinalien)
+
 VOICEROIDシリーズ、CeVIOシリーズのキャラクターの非公式立ち絵イラストです。
 * [PSDTool](https://oov.github.io/psdtool/)
 * [AviUtl](http://spring-fragrance.mints.ne.jp/aviutl/)プラグイン [PSDToolKit](https://oov.github.io/aviutl_psdtoolkit/index.html)
